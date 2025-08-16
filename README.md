@@ -4,6 +4,9 @@
 
 The Local Food Wastage Management System (LFWMS) is a comprehensive platform designed to tackle food waste through efficient management of donation and redistribution networks. It connects providers (restaurants, supermarkets, cafeterias) with receivers (NGOs, shelters, food banks), leveraging data analytics, stakeholder management, and interactive dashboards.
 
+<img width="958" height="645" alt="image" src="https://github.com/user-attachments/assets/be59ce6e-4899-4c44-9003-63bd5b541c1f" />
+
+
 🚀 Features
 •	Real-time Food Tracking – Monitor surplus food with expiry dates & quantities.
 •	Stakeholder Management – Maintain provider & receiver databases.
@@ -11,6 +14,10 @@ The Local Food Wastage Management System (LFWMS) is a comprehensive platform des
 •	Waste Analysis – Identify bottlenecks & high-risk categories.
 •	Data Insights – Actionable reports for policy & resource allocation.
 •	Interactive Dashboard – Streamlit-powered UI with charts & KPIs.
+
+<img width="964" height="769" alt="image" src="https://github.com/user-attachments/assets/331837a5-bcc8-4624-9ca7-6e79c6f10b5a" />
+
+
 ⚙️ System Architecture
 The system consists of data sources (CSV), a data pipeline using Pandas/SQL, a SQLite database, analytics/visualization modules (Matplotlib/Seaborn), and an interactive dashboard (Streamlit).
 
@@ -38,6 +45,7 @@ Steps:
 •	Install dependencies: pip install -r requirements.txt
 •	Run Streamlit Dashboard: streamlit run app.py
 
+
 💡 Business Intelligence Insights
 •	Seasonal patterns in donations and demand.
 •	Geographic distribution of providers & receivers.
@@ -51,4 +59,5 @@ Steps:
 •	AI/ML models for demand forecasting & waste prediction.
 •	Cloud deployment (AWS / Google Cloud).
 •	Multi-language support for global adoption.
+
 
