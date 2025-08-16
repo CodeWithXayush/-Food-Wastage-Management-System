@@ -33,7 +33,7 @@ The system consists of data sources (CSV), a data pipeline using Pandas/SQL, a S
 Prerequisites: Python 3.7+, pip, Git
 Steps:
 
-•	Clone repository: git clone https://github.com/your-username/LOCAL-FOOD-WASTAGE-MANAGEMENT-SYSTEM.git
+•	Clone repository: git clone https://github.com/CodeWithXayush/-Food-Wastage-Management-System .
 •	Navigate into directory: cd LOCAL-FOOD-WASTAGE-MANAGEMENT-SYSTEM
 •	Install dependencies: pip install -r requirements.txt
 •	Run Streamlit Dashboard: streamlit run app.py
@@ -51,3 +51,4 @@ Steps:
 •	AI/ML models for demand forecasting & waste prediction.
 •	Cloud deployment (AWS / Google Cloud).
 •	Multi-language support for global adoption.
+
